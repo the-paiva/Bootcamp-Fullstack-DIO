@@ -1,0 +1,28 @@
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\bin\Debug\net8.0\projetinho.exe
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\bin\Debug\net8.0\projetinho.deps.json
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\bin\Debug\net8.0\projetinho.runtimeconfig.json
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\bin\Debug\net8.0\projetinho.dll
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\bin\Debug\net8.0\projetinho.pdb
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.AssemblyInfoInputs.cache
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.AssemblyInfo.cs
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.csproj.CoreCompileInputs.cache
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.dll
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\refint\projetinho.dll
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.pdb
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.genruntimeconfig.cache
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Introdução ao .NET\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\ref\projetinho.dll
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\bin\Debug\net8.0\projetinho.exe
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\bin\Debug\net8.0\projetinho.deps.json
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\bin\Debug\net8.0\projetinho.runtimeconfig.json
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\bin\Debug\net8.0\projetinho.dll
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\bin\Debug\net8.0\projetinho.pdb
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.AssemblyInfoInputs.cache
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.AssemblyInfo.cs
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.csproj.CoreCompileInputs.cache
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.dll
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\refint\projetinho.dll
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.pdb
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\projetinho.genruntimeconfig.cache
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\Tipos de Operadores\projetinho\obj\Debug\net8.0\ref\projetinho.dll
