@@ -1,0 +1,14 @@
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\bin\Debug\net8.0\menu.exe
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\bin\Debug\net8.0\menu.deps.json
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\bin\Debug\net8.0\menu.runtimeconfig.json
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\bin\Debug\net8.0\menu.dll
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\bin\Debug\net8.0\menu.pdb
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\obj\Debug\net8.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\obj\Debug\net8.0\menu.AssemblyInfoInputs.cache
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\obj\Debug\net8.0\menu.AssemblyInfo.cs
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\obj\Debug\net8.0\menu.csproj.CoreCompileInputs.cache
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\obj\Debug\net8.0\menu.dll
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\obj\Debug\net8.0\refint\menu.dll
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\obj\Debug\net8.0\menu.pdb
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\obj\Debug\net8.0\menu.genruntimeconfig.cache
+D:\Usuários\Henrique\OneDrive\Documents\Cursos - Henrique\Bootcamp - XP. Inc Fullstack Developer\Aprendendo .NET e C#\Códigos\4 - Conhecendo as Estruturas de Repetição\menu\obj\Debug\net8.0\ref\menu.dll
